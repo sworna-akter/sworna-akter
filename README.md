@@ -59,7 +59,8 @@ I have research experience in analyzing climatic and satellite-derived datasets,
 
 Akter, S., Mondol, M. A. H., Logna, H. R., et al. (2026). Characterising spatial patterns of exposure, sensitivity and adaptive capacity to assess heatwave vulnerability of Bangladesh. *Natural Hazards, 122*, 673.
 
-[https://doi.org/10.1007/s11069-026-08432-y](https://doi.org/10.1007/s11069-026-08432-y)
+-- [Read Published Article](https://doi.org/10.1007/s11069-026-08432-y)
+-- [Explore Research Repository](https://github.com/YOUR-GITHUB-USERNAME/heatwave-vulnerability-bangladesh)
 
 ### 2. Technological Drought Assessment
 

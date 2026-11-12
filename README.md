@@ -59,21 +59,20 @@ I have research experience in analyzing climatic and satellite-derived datasets,
 
 Akter, S., Mondol, M. A. H., Logna, H. R., et al. (2026). Characterising spatial patterns of exposure, sensitivity and adaptive capacity to assess heatwave vulnerability of Bangladesh. *Natural Hazards, 122*, 673.
 
- [ Published Article](https://doi.org/10.1007/s11069-026-08432-y)
- 
- [Research Repository](https://github.com/sworna-akter/Heatwave-vulnerability-in-Bangladesh)
+ [ Published Article](https://doi.org/10.1007/s11069-026-08432-y)    [Research Repository](https://github.com/sworna-akter/Heatwave-vulnerability-in-Bangladesh)
 
 ### 2. Technological Drought Assessment
 
 Haque Mondol, M. A., Logna, H. R., Akter, S., Ali Mina, R., Rahman, H., Zhu, X., & Dunkerley, D. (2026). Underlying Dimensions and Determinants of Technological Drought in Relatively Uplifted Regions of Bangladesh. *Water Scarcity and Drought, 1*(1), 5.
+ [ Published Article](https://www.researchgate.net/publication/404720169_Underlying_Dimensions_and_Determinants_of_Technological_Drought_in_Relatively_Uplifted_Regions_of_Bangladesh)    [Research Repository](https://github.com/sworna-akter/Technological-Drought)
+
 
 ### 3. Heatwave Severity and Trends
 
 Logna, H. R., Mondol, M. A. H., Akter, S., & Rahman, H. (2026). Assessing Heatwave Severity and Trends in the Southwest Coast Region of Bangladesh Using Heat Index. *International Journal of Environment and Climate Change, 16*(10), 651–667.
 
-[https://doi.org/10.9734/ijecc/2026/v16i105746](https://doi.org/10.9734/ijecc/2026/v16i105746)
+ [ Published Article][https://doi.org/10.9734/ijecc/2026/v16i105746](https://doi.org/10.9734/ijecc/2026/v16i105746)
 
----
 
 ## 🎓 Education
 

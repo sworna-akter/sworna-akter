@@ -51,6 +51,8 @@ I have research experience in analyzing climatic and satellite-derived datasets,
 - Implemented microclimatic zoning analysis using satellite-derived land surface temperature (LST), land use/land cover (LULC), and normalized difference vegetation index (NDVI).
 - Compared field observations with web-based climatic data to investigate spatial variability and environmental patterns across different land-cover types.
 
+ [Research Repository](https://github.com/sworna-akter/Semi-urban-Microclimate-at-JU)
+
 ---
 
 ## 📚 Research Publications
@@ -77,6 +79,15 @@ Logna, H. R., Mondol, M. A. H., Akter, S., & Rahman, H. (2026). Assessing Heatwa
  [ Published Article](https://doi.org/10.9734/ijecc/2026/v16i105746)
 
 
+## Conference Presentations
+
+1. **Akter, S.,** Logna, H. R., Mondol, M. A. H., Rahman, H., & Rashid, B. (2025). *Assessing the Characteristics of Heatwave Vulnerability in Bangladesh: A Composite Index-Based Approach.* Paper presented at the 1st International Conference on Geosciences for Achieving Sustainable Development Goals (ICGSDG 2025), Faculty of Geosciences, University of Rajshahi, Rajshahi, Bangladesh, 14–15 November 2025.
+
+2. **Akter, S.,** Logna, H. R., Mondol, M. A. H., & Rahman, H. (2025). *Characterising the Spatio-Temporal Hotspots of Heatwaves in Bangladesh.* Poster presented at the Conference on Environment & Changing Climate: Global Strategies, Local Actions (ECC’25), Department of Environmental Science and Management, Independent University, Bangladesh, Dhaka, Bangladesh, 20–21 November 2025.
+
+3. Logna, H. R., **Akter, S.,** Mondol, M. A. H., Rahman, H., & Rashid, B. (2025). *Exploring the Characteristics of Heatwaves in the Madhupur Tract Region of Bangladesh.* Poster presented at the International Conference on Environmental Science and Resource Management (ICESRM 2025), Department of Environmental Science and Resource Management, Mawlana Bhashani Science and Technology University, Tangail, Bangladesh, 29 November 2025.
+
+4. Logna, H. R., **Akter, S.,** Mondol, M. A. H., Rahman, H., & Rashid, B. (2025). *Spatiotemporal Characteristics of Heatwave in the Central Region of Bangladesh.* Paper presented at the Gazipur Agricultural University International Conference (GAUIC) on Regenerative Agriculture for Sustainable Food Security, Gazipur Agricultural University, Gazipur, Bangladesh, 12–13 December 2025.
 
 ## 🎓 Education
 
